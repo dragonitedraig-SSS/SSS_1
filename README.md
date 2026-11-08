@@ -5,6 +5,20 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+    # Sistema Backend & API RESTful - Chambealo
+
+Proyecto de backend y lógica de servidor desarrollado para la gestión de servicios y transacciones digitales.
+
+## 🛠️ Tecnologías y Herramientas
+* **Backend:** PHP (Laravel)
+* **Base de Datos:** MySQL / MariaDB
+* **Pasarelas de Pago:** Mercado Pago, PayPal e Izipay
+* **Arquitectura:** API RESTful, control de versiones con Git
+
+## 🚀 Características Principales
+- Estructura de endpoints para consumo seguro.
+- Integración de pasarelas de pago con confirmación por webhooks.
+- Lógica de negocio orientada a la administración de servicios.
 </p>
 
 ## About Laravel
